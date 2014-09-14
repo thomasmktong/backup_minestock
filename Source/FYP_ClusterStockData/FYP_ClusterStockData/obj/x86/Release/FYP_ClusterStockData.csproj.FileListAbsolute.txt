@@ -1,0 +1,7 @@
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_ClusterStockData\FYP_ClusterStockData\bin\Release\FYP_ClusterStockData.exe
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_ClusterStockData\FYP_ClusterStockData\bin\Release\FYP_ClusterStockData.pdb
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_ClusterStockData\FYP_ClusterStockData\bin\Release\FYP_Common.dll
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_ClusterStockData\FYP_ClusterStockData\bin\Release\FYP_Common.pdb
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_ClusterStockData\FYP_ClusterStockData\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_ClusterStockData\FYP_ClusterStockData\obj\x86\Release\FYP_ClusterStockData.exe
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_ClusterStockData\FYP_ClusterStockData\obj\x86\Release\FYP_ClusterStockData.pdb

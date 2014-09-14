@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="FYP_GUI_v1.exe" version="1.0.0.0" publicKeyToken="51e10a9efe9e7435" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FYP_GUI_v1" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="FYP_GUI_v1.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Equin.ApplicationFramework.BindingListView.dll" size="57344">
+      <assemblyIdentity name="Equin.ApplicationFramework.BindingListView" version="1.2.2446.31718" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>gklTL5HYI6jC/9bHfqGMPZGpIeo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FYP_Common.dll" size="18432">
+      <assemblyIdentity name="FYP_Common" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>PcXsemHmpmE2+HLarDLOANO4xmY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FYP_GUI_v1.exe" size="271360">
+      <assemblyIdentity name="FYP_GUI_v1" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>XcUSM4hS9vSC6Mnjwfh7uu6fAOk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZedGraph.dll" size="307200">
+      <assemblyIdentity name="ZedGraph" version="5.1.5.28844" publicKeyToken="02A83CBD123FCD60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>BMwQ/MmSgKzmPpgjmSJ/V+P2YN8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="favicon.ico" size="16958">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SVKsBbOo93QToMdnc6EG70aTyIA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=THOMAS-4C7420EE\Thomas" issuerKeyHash="0f19d40e70479628b0ca3982bee3d270cfcf7564" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>IF2/GXtN2/bgGhrT6qfBmg4TZn8=</DigestValue></Reference></SignedInfo><SignatureValue>Vg1vCQCzqF3vqEPjVHIjuisfRrJhMWHiFL9KqqYdtA/d5W0rTnXwcAkROtd9FdwvU094xLwKJx6Fp6szJvjJODGr3+W48P/7wxJGVl9Ey7AesAwrrtaRE7CMkHT2TWDJBrBw8O+OORaY7rsoOGTxcnHEwRkULH8idrdEW/AVdlY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>lcMT9MuqpJRfr6NVc47cszJ1hFrIqe1bw0ZGwV4FgKaBMNAjO7GmeMTFTaVjKbcTQP+NuHCQkTlwcKcB0uliRfeK8ljM8ykxH8RcY5NKQjMp2Bq+5rXLw2mkj4I3+JkHYdN4DdTEasFTTNDRWNx0ajzkeRI185gQQ6Lt0nh334s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7f66130e9ac1a7ead31a1ae0f6db4d7b19bf5d20" Description="" Url=""><as:assemblyIdentity name="FYP_GUI_v1.exe" version="1.0.0.0" publicKeyToken="51e10a9efe9e7435" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=THOMAS-4C7420EE\Thomas</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>KdW4/RyVp4EMoGroRLlRfzS4OQI=</DigestValue></Reference></SignedInfo><SignatureValue>Z+vcMnGfOq3x1NGOM50H1ulg6CBQBBhkPcV0ji4B+K7Q5KXuwIdCUjvwcqJISAfY0ZAFLKvJxgJI6gd2C6MizaLqY5kvtdwgFZ8fKHOwlrtTzBIO5Zz+4qL882LykFvxgx8ESs2IdjtCHAcSlKcIxcd5QYHPSf0OBPK24Yo/0w0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lcMT9MuqpJRfr6NVc47cszJ1hFrIqe1bw0ZGwV4FgKaBMNAjO7GmeMTFTaVjKbcTQP+NuHCQkTlwcKcB0uliRfeK8ljM8ykxH8RcY5NKQjMp2Bq+5rXLw2mkj4I3+JkHYdN4DdTEasFTTNDRWNx0ajzkeRI185gQQ6Lt0nh334s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVagAwIBAgIQaS705Ps+1K1LxbIwk2MBjzAJBgUrDgMCHQUAMDcxNTAzBgNVBAMeLABUAEgATwBNAEEAUwAtADQAQwA3ADQAMgAwAEUARQBcAFQAaABvAG0AYQBzMB4XDTExMDQyMjEwMjQ1OFoXDTEyMDQyMTE2MjQ1OFowNzE1MDMGA1UEAx4sAFQASABPAE0AQQBTAC0ANABDADcANAAyADAARQBFAFwAVABoAG8AbQBhAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJXDE/TLqqSUX6+jVXOO3LMydYRayKntW8NGRsFeBYCmgTDQIzuxpnjExU2lYym3E0D/jbhwkJE5cHCnAdLpYkX3ivJYzPMpMR/EXGOTSkIzKdgavua1y8NppI+CN/iZB2HTeA3UxGrBU0zQ0VjcdGo85HkSNfOYEEOi7dJ4d9+LAgMBAAEwCQYFKw4DAh0FAAOBgQApgwWJv8IkSsIfMDXH3MWJI5gAvB4RPggQ5E63U3gc6I//ApXgJ+NnCM1p6DT6JIqb33pVxSe0GONmZNpsBVTYzfr4AOkm/9VqF22UjF3HZLRAlDA6Jh1b/6efwuwuJO99c+/ZnTpqobpTyfSkV9fQtXcXQlZQ9NE/cttV4+CbUw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tbill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <period>1</period>
+  <coupon>0</coupon>
+  <price>0.10</price>
+  <ytm>0.11</ytm>
+  <time>2011-04-27T00:38:28.827625+08:00</time>
+</Tbill>

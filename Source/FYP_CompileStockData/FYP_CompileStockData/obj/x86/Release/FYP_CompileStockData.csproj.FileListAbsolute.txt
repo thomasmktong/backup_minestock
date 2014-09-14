@@ -1,0 +1,7 @@
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CompileStockData\FYP_CompileStockData\bin\Release\FYP_CompileStockData.exe
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CompileStockData\FYP_CompileStockData\bin\Release\FYP_CompileStockData.pdb
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CompileStockData\FYP_CompileStockData\bin\Release\FYP_Common.dll
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CompileStockData\FYP_CompileStockData\bin\Release\FYP_Common.pdb
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CompileStockData\FYP_CompileStockData\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CompileStockData\FYP_CompileStockData\obj\x86\Release\FYP_CompileStockData.exe
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CompileStockData\FYP_CompileStockData\obj\x86\Release\FYP_CompileStockData.pdb

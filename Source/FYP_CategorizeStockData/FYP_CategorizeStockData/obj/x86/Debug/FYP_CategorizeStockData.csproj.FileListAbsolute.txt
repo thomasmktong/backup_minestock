@@ -1,0 +1,7 @@
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CategorizeStockData\FYP_CategorizeStockData\bin\Debug\FYP_CategorizeStockData.exe
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CategorizeStockData\FYP_CategorizeStockData\bin\Debug\FYP_CategorizeStockData.pdb
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CategorizeStockData\FYP_CategorizeStockData\bin\Debug\FYP_Common.dll
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CategorizeStockData\FYP_CategorizeStockData\bin\Debug\FYP_Common.pdb
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CategorizeStockData\FYP_CategorizeStockData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CategorizeStockData\FYP_CategorizeStockData\obj\x86\Debug\FYP_CategorizeStockData.exe
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_CategorizeStockData\FYP_CategorizeStockData\obj\x86\Debug\FYP_CategorizeStockData.pdb

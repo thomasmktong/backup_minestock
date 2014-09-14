@@ -1,0 +1,2 @@
+install_files\reinstall.exe
+install_files\shortcut.vbs

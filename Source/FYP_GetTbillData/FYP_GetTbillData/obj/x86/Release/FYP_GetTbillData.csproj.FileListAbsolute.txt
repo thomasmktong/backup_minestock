@@ -1,0 +1,7 @@
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_GetTbillData\FYP_GetTbillData\bin\Release\FYP_GetTbillData.exe
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_GetTbillData\FYP_GetTbillData\bin\Release\FYP_GetTbillData.pdb
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_GetTbillData\FYP_GetTbillData\bin\Release\FYP_Common.dll
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_GetTbillData\FYP_GetTbillData\bin\Release\FYP_Common.pdb
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_GetTbillData\FYP_GetTbillData\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_GetTbillData\FYP_GetTbillData\obj\x86\Release\FYP_GetTbillData.exe
+C:\Documents and Settings\Thomas\My Documents\Visual Studio 2010\Projects\FYP_GetTbillData\FYP_GetTbillData\obj\x86\Release\FYP_GetTbillData.pdb
